@@ -1,0 +1,2 @@
+# awesome_time_series_classification_datasets
+awesome_time_series_classification_datasets
