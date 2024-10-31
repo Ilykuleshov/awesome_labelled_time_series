@@ -1,7 +1,3 @@
----
-title: README.md
----
-
 ## Awesome time series classification datasets
 
 ### Notation
