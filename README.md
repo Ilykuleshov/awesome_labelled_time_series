@@ -22,15 +22,16 @@ Some datasets have several labels, which is indicated by number (e.g. 4xBfour bi
 ### Medical
 
 | Name           | URL                                                   | Label     | Type | Balanced | Missing |
-|----------------|-------------------------------------------------------|-----------|------|----------|---------|
-| PhysioNet 2012 | <https://physionet.org/content/challenge-2012/1.0.0/> | mortality | B    | No       | Yes     |
+| -------------- | ----------------------------------------------------- | --------- | ---- | -------- | ------- |
+| Sepsis         | https://physionet.org/content/challenge-2019/1.0.0/   |           |      |          |         |
 | MIMIC          | <https://physionet.org/content/mimiciii/1.4/>         | mortality | B    | No       | Yes     |
+| PhysioNet 2012 | <https://physionet.org/content/challenge-2012/1.0.0/> | mortality | B    | No       | Yes     |
 
 ### Retail
 
 | Name    | URL                                                         | Label       | Type | Balanced | Missing |
 |---------|-------------------------------------------------------------|-------------|------|----------|---------|
 | X5-hero | <https://ods.ai/competitions/x5-retailhero-uplift-modeling> | Age, Gender | 2xC  | Yes      | No      |
-| TaoBao  |                                                             | purchase    | B    |          |         |
+| TaoBao  | https://tianchi.aliyun.com/dataset/46                       | purchase    | B    |          |         |
 
 
